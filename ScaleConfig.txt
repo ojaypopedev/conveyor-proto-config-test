@@ -2,11 +2,11 @@
   "Name": "ConfigData_ScaleConfig",
   "Version": 2,
   "Config": {
-	"Scale_Config_0": {
+	"Beans": {
 	  "name": "Scale_Config_0",
 	  "Size": 3
 	},
-	"Scale_Config_1": {
+	"Toast": {
 	  "name": "Scale_Config_1",
 	  "Size": 2
 	}

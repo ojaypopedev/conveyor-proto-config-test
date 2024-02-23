@@ -3,11 +3,11 @@
   "Version": 2,
   "Config": {
 	"Beans": {
-	  "name": "Scale_Config_0",
+	  "name": "Beans",
 	  "Size": 3
 	},
 	"Toast": {
-	  "name": "Scale_Config_1",
+	  "name": "Toast",
 	  "Size": 2
 	}
   }

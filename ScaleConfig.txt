@@ -9,6 +9,6 @@
 	"Scale_Config_1": {
 	  "name": "Scale_Config_1",
 	  "Size": 2
-	},
+	}
   }
 }
